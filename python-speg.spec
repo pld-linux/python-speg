@@ -7,7 +7,7 @@ Summary:	PEG-based parser interpreter with memoization
 Summary(pl.UTF-8):	Interpreter parserów opartych na PEG z zapamiętywaniem
 Name:		python-speg
 Version:	0.3
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/speg/
